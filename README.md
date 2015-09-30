@@ -8,4 +8,4 @@ Gather public data of people who has published their genome as well as their nam
 
 Genome databases with "Profile" pages ;
 
-  - Personnal Genomes Project (PGP, http://www.personalgenomes.org/) of people who has uploaded their real name and/or picture as well. Results : 65 Persons by 30.09
+  - Personnal Genomes Project (PGP, http://www.personalgenomes.org/). Results : 65 Persons by 30.09
