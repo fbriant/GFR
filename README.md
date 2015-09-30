@@ -9,3 +9,4 @@ Gather public data of people who has published their genome as well as their nam
 Genome databases with "Profile" pages ;
 
   - Personnal Genomes Project (PGP, http://www.personalgenomes.org/). Results : 65 Persons by 30.09
+  - OpenSPN (OSPN, https://opensnp.org/). Results : TO BE LAUNCHED
